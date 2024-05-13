@@ -1,0 +1,3 @@
+Skyscraper A,30
+Office Complex B,10
+Residential Tower C,20
